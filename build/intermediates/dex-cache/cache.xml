@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_56d39a6f9a02932927fdc896ce129554566f5cbd\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_5c9adc7b426b8bb418131e49f330f880dac6f1c3\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_eb761bfb96a0f34d2a15b3f7b530b7411fae67cd\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0190441a77b21a89141ec30ab7b9a32c96c49dd8">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_92771f0262233cb2028b58483123a9250b93636c\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_31b170db520842acb61d639577840920a18e535d\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0d47fe69eebd87b84a791d6bdade6b2386fbf5d6\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_45b4664d9220f9ee91bb80a7e70aa425fd194574\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_27ee10abbfcbe2057ca6a3d8ee61f69516340850\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_625a9b317b8736b4105c1f61525fafa1a4f729c2\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_3fd45a4cc3ba05219b87a3b0aae76904f2062c68\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ddd08251eb8abff47b7aac77e1d00b8079c1f93a\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_6a42639749c91ca7ec7a30c103c2dfc6fecaa510\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_f5268bbd88c3b850d03d1900d4255a0876bb6717\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Himanshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_895cb2c9695470c05c8dc35ada7aa4dada00d965\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_ec2606de1b3549bfc19e585b34f7bc485f67eccd\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d2e0785697edc199100c2aced06ab56c257d583e">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_19df079df48715ac804c1353a9113b0c79b025e8\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_071adcc5b8145dbe59dcaabb63a212db7dce0525\classes.dex" />
+    </item>
+    <item
+        jar="F:\android\Translater\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\android\Translater\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_2fd3522e07f6c69e0458fff838cc745c4067462f\classes.dex" />
+    </item>
+
+</items>
